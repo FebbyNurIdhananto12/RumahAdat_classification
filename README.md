@@ -6,7 +6,7 @@ Project ini bertujuan untuk mengklasifikasikan gambar rumah adat Indonesia berda
 ## Dataset
 Dataset yang digunakan dalam proyek ini dapat diakses di [Kaggle: Rumah Adat Indonesia](https://www.kaggle.com/datasets/rariffirmansah/rumah-adat). Dataset ini berisi gambar rumah adat terdiri dari 3919 rumah adat, yang digunakan untuk melatih model deep learning dalam tugas klasifikasi.
 
-![Gambar](
+![Gambar](https://github.com/FebbyNurIdhananto12/RumahAdat_classification/blob/main/gambar/dataset.png)
 
 ### 1. Persyaratan Sistem
 Pastikan Anda telah menginstal Python versi 3.10 atau lebih baru.
