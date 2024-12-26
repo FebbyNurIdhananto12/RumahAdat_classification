@@ -40,22 +40,21 @@ MobileNetV2 sangat cocok untuk aplikasi yang membutuhkan efisiensi komputasi tin
 ## Hasil
 ### VGG16
 #### Val dan loss
-![Gambar2](https://github.com/FebbyNurIdhananto12/RumahAdat_classification/blob/main/gambar/akurasi_val_vgg16.png)
-![Gambar3](https://github.com/FebbyNurIdhananto12/RumahAdat_classification/blob/main/gambar/akurasi_loss_vgg16.png)
+![Gambar2](https://github.com/FebbyNurIdhananto12/RumahAdat_classification/blob/main/gambar/akurasi_val_vgg16.png) ![Gambar3](https://github.com/FebbyNurIdhananto12/RumahAdat_classification/blob/main/gambar/akurasi_loss_vgg16.png)
 
-Classification Report
+#### Classification Report
 ![Gambar4](https://github.com/FebbyNurIdhananto12/RumahAdat_classification/blob/main/gambar/clasification_report%20_vgg.jpg)
 
-Confussion Matrix
+#### Confussion Matrix
 ![Gambar5](https://github.com/FebbyNurIdhananto12/RumahAdat_classification/blob/main/gambar/Confusionmatrix_vgg.png)
 
 ### VGG16
-Val dan loss
-![Gambar2](https://github.com/FebbyNurIdhananto12/RumahAdat_classification/blob/main/gambar/akurasi_val_vgg16.png)
-![Gambar3](https://github.com/FebbyNurIdhananto12/RumahAdat_classification/blob/main/gambar/akurasi_loss_vgg16.png)
+#### Val dan loss
+![Gambar6](https://github.com/FebbyNurIdhananto12/RumahAdat_classification/blob/main/gambar/akurasi%20val%20mobilenet.png)
+![Gambar7](https://github.com/FebbyNurIdhananto12/RumahAdat_classification/blob/main/gambar/akurasi_loss_mobilenet.png)
 
-Classification Report
-![Gambar4](https://github.com/FebbyNurIdhananto12/RumahAdat_classification/blob/main/gambar/clasification_report%20_vgg.jpg)
+#### Classification Report
+![Gambar8](https://github.com/FebbyNurIdhananto12/RumahAdat_classification/blob/main/gambar/clasification_report%20.jpg)
 
-Confussion Matrix
-![Gambar5](https://github.com/FebbyNurIdhananto12/RumahAdat_classification/blob/main/gambar/Confusionmatrix_vgg.png)
+#### Confussion Matrix
+![Gambar9](https://github.com/FebbyNurIdhananto12/RumahAdat_classification/blob/main/gambar/Confusionmatrix_mobilenet.png)
