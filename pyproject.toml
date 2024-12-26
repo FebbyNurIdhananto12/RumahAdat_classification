@@ -1,0 +1,20 @@
+[project]
+name = "BISSMILLAHHH"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "FebbyNurIdhananto12", email = "idhananto12@gmail.com"},
+]
+dependencies = ["Streamlit>=1.41.1", "pathlib>=1.0.1"]
+requires-python = "==3.11.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
+src = "src"
+
+[tool.pdm.scripts]
+start = "streamlit run ./src/app.py"
+mulai = "streamlit run ./src/rumah_adat.py"
