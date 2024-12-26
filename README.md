@@ -27,12 +27,6 @@ pip install -r requirements.txt
 pdm run mulai
 ```
 
-## Pustaka 
-streamlit
-numpy
-tensorflow
-PIL
-
 ## Deskrisi
 VGG16 adalah pilihan terbaik jika sumber daya komputasi tersedia dan membutuhkan model dengan akurasi tinggi untuk tugas pengenalan gambar besar.
 MobileNetV2 sangat cocok untuk aplikasi yang membutuhkan efisiensi komputasi tinggi dan kecepatan inferensi, seperti pada perangkat mobile atau aplikasi embedded.
